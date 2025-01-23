@@ -366,6 +366,7 @@ export {
   techStack,
   openSource,
   bigProjects,
+  workExperiences,
   achievementSection,
   contactInfo,
   twitterDetails,
