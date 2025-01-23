@@ -20,22 +20,26 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Soham Mhatre",
-  title: "Hi all, I'm Soham",
+  username: "Saad Pasta",
+  title: "Hi all, I'm Saad",
   subTitle: emoji(
-    "A passionate Data Analyst 🚀 having an experience of Python SQL Power Bi and Other Data tools."
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "drive.google.com", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/sohammhatre036",
-  linkedin: "https://www.linkedin.com/",
-  gmail: "sohammhatre036@gmail.com",
+  github: "https://github.com/saadpasta",
+  linkedin: "https://www.linkedin.com/in/saadpasta/",
+  gmail: "saadpasta70@gmail.com",
+  gitlab: "https://gitlab.com/saadpasta",
+  facebook: "https://www.facebook.com/saad.pasta7",
+  medium: "https://medium.com/@saadpasta",
+  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
