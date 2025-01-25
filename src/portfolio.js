@@ -361,7 +361,7 @@ export {
   techStack,
   bigProjects,
   podcastSection,
-  talksSection,
+  talkSection,
   blogSection,
   workExperiences,
   achievementSection,
