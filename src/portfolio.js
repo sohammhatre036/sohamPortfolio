@@ -300,7 +300,7 @@ const blogSection = {
 
 // Talks Sections
 
-/const talkSection = {
+const talkSection = {
 //   title: "TALKS",
 //   subtitle: emoji(
 //     "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
