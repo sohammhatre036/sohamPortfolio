@@ -183,29 +183,42 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Projects",
+  // subtitle: "Some of my notable projects and contributions",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      // image: require("./assets/images/netflixDashboardLogo.webp"), // Replace with a relevant image
+      projectName: "Netflix Analysis",
+      projectDesc:
+        "Conducted an in-depth analysis of user behavior on Netflix using Power BI to uncover patterns and insights for content creation and platform optimization.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "View on GitHub",
+          url: "https://github.com/sohammhatre036/Netflix_analysis"
         }
-        //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      // image: require("./assets/images/quizAppLogo.webp"), // Replace with a relevant image
+      projectName: "Quiz App",
+      projectDesc:
+        "Developed a MongoDB-backed Quiz App using Streamlit for the frontend. The app allows users to take quizzes and displays scores upon submission.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "View on GitHub",
+          url: "https://github.com/sohammhatre036/Mongo-based-Quiz-App"
+        }
+      ]
+    },
+    {
+      // image: require("./assets/images/salesDashboardLogo.webp"), // Replace with a relevant image
+      projectName: "Sales Dashboard",
+      projectDesc:
+        "Created an interactive Power BI dashboard to visualize key sales metrics, enabling businesses to make data-driven decisions.",
+      footerLink: [
+        {
+          name: "View on GitHub",
+          url: "https://github.com/sohammhatre036/Sales-Dashboard-Power-BI"
         }
       ]
     }
