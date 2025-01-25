@@ -63,31 +63,56 @@ const skillsSection = {
 https://fontawesome.com/icons?d=gallery */
 
  softwareSkills: [
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "tableau",
-      fontAwesomeClassname: "fas fa-chart-bar"
-    },
-    {
-      skillName: "power-bi",
-      fontAwesomeClassname: "fas fa-chart-pie"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
-  ],
+  {
+    skillName: "SQL",
+    fontAwesomeClassname: "fas fa-database"
+  },
+  {
+    skillName: "Power BI",
+    fontAwesomeClassname: "fas fa-chart-pie"
+  },
+  {
+    skillName: "Tableau",
+    fontAwesomeClassname: "fas fa-chart-bar"
+  },
+  {
+    skillName: "Python",
+    fontAwesomeClassname: "fab fa-python"
+  },
+  {
+    skillName: "R",
+    fontAwesomeClassname: "fab fa-r-project"
+  },
+  {
+    skillName: "Excel",
+    fontAwesomeClassname: "fas fa-file-excel"
+  },
+  {
+    skillName: "Big Data (Hadoop Ecosystem)",
+    fontAwesomeClassname: "fas fa-server"
+  },
+  {
+    skillName: "MongoDB",
+    fontAwesomeClassname: "fas fa-leaf"
+  },
+  {
+    skillName: "AWS",
+    fontAwesomeClassname: "fab fa-aws"
+  },
+  {
+    skillName: "AI/ML",
+    fontAwesomeClassname: "fas fa-robot"
+  },
+  {
+    skillName: "Data Modeling",
+    fontAwesomeClassname: "fas fa-project-diagram"
+  },
+  {
+    skillName: "DAX",
+    fontAwesomeClassname: "fas fa-code"
+  }
+],
+
   display: true // Set false to hide this section, defaults to true
 };
 
