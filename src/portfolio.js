@@ -141,7 +141,7 @@ const techStack = {
 
 // Work experience section
 
-// const workExperiences = {
+const workExperiences = {
 //   display: true, //Set it to true to show workExperiences Section
 //   experience: [
 //     {
@@ -170,7 +170,7 @@ const techStack = {
 //       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 //     }
 //   ]
-// };
+ };
 
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
@@ -359,6 +359,7 @@ export {
   skillsSection,
   educationInfo,
   techStack,
+  workExperiences,
   achievementSection,
   contactInfo,
   isHireable,
