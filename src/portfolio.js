@@ -276,7 +276,7 @@ const achievementSection = {
 
 // Blogs Section
 
-// const blogSection = {
+const blogSection = {
 //   title: "Blogs",
 //   subtitle:
 //     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
@@ -296,11 +296,11 @@ const achievementSection = {
 //     }
 //   ],
 //   display: true // Set false to hide this section, defaults to true
-// };
+};
 
 // Talks Sections
 
-// const talkSection = {
+/const talkSection = {
 //   title: "TALKS",
 //   subtitle: emoji(
 //     "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
@@ -315,11 +315,11 @@ const achievementSection = {
 //     }
 //   ],
 //   display: true // Set false to hide this section, defaults to true
-// };
+ };
 
 // Podcast Section
 
-// const podcastSection = {
+const podcastSection = {
 //   title: emoji("Podcast 🎙️"),
 //   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
 
@@ -328,7 +328,7 @@ const achievementSection = {
 //     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
 //   ],
 //   display: true // Set false to hide this section, defaults to true
-// };
+};
 
 // Resume Section
 const resumeSection = {
@@ -359,6 +359,10 @@ export {
   skillsSection,
   educationInfo,
   techStack,
+  bigProjects,
+  podcastSection,
+  talksSection,
+  blogSection,
   workExperiences,
   achievementSection,
   contactInfo,
