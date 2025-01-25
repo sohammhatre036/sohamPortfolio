@@ -349,10 +349,10 @@ const contactInfo = {
 
 Twitter Section
 
-const twitterDetails = {
-  userName: "Soham_Mhatre_", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
-};
+// const twitterDetails = {
+//   userName: "Soham_Mhatre_", //Replace "twitter" with your twitter username without @
+//   display: true // Set true to display this section, defaults to false
+// };
 
 const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
@@ -372,7 +372,7 @@ export {
   // talkSection,
   // podcastSection,
   contactInfo,
-  twitterDetails,
+  // twitterDetails,
   isHireable,
   resumeSection
 };
