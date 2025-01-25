@@ -359,7 +359,6 @@ export {
   skillsSection,
   educationInfo,
   techStack,
-  // workExperiences,
   achievementSection,
   contactInfo,
   isHireable,
