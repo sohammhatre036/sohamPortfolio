@@ -266,13 +266,13 @@ const achievementSection = {
       imageAlt: "SQL Certification Logo",
       footerLink: []
     },
-    // {
-    //   title: "Data Visualization with Power BI",
-    //   subtitle: "Certification course by Great Learning.",
-    //   image: require("./assets/images/powerBICertificationLogo.webp"), // Replace with an appropriate image
-    //   imageAlt: "Power BI Certification Logo",
-    //   footerLink: []
-    // },
+    {
+      title: "Data Visualization with Power BI",
+      subtitle: "Certification course by Great Learning.",
+      image: require("./assets/images/powerbi.jpg"), // Replace with an appropriate image
+      imageAlt: "Power BI Certification Logo",
+      footerLink: []
+    },
     {
       title: "Big Data Computing",
       subtitle: "Completed NPTEL online course.",
