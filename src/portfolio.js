@@ -212,7 +212,7 @@ const bigProjects = {
   // subtitle: "Some of my notable projects and contributions",
   projects: [
     {
-      // image: require("./assets/images/netflixDashboardLogo.webp"), // Replace with a relevant image
+      image: require("./assets/images/netflix.png"), // Replace with a relevant image
       projectName: "Netflix Analysis",
       projectDesc:
         "Conducted an in-depth analysis of user behavior on Netflix using Power BI to uncover patterns and insights for content creation and platform optimization.",
@@ -224,7 +224,7 @@ const bigProjects = {
       ]
     },
     {
-      // image: require("./assets/images/quizAppLogo.webp"), // Replace with a relevant image
+      image: require("./assets/images/quiz.png"), // Replace with a relevant image
       projectName: "Quiz App",
       projectDesc:
         "Developed a MongoDB-backed Quiz App using Streamlit for the frontend. The app allows users to take quizzes and displays scores upon submission.",
@@ -236,7 +236,7 @@ const bigProjects = {
       ]
     },
     {
-      // image: require("./assets/images/salesDashboardLogo.webp"), // Replace with a relevant image
+      image: require("./assets/images/sales.png"), // Replace with a relevant image
       projectName: "Sales Dashboard",
       projectDesc:
         "Created an interactive Power BI dashboard to visualize key sales metrics, enabling businesses to make data-driven decisions.",
