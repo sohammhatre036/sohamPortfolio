@@ -100,6 +100,18 @@ https://fontawesome.com/icons?d=gallery */
     fontAwesomeClassname: "fab fa-aws"
   },
   {
+    skillName: "Azure",
+    fontAwesomeClassname: "fab fa-microsoft"
+  },
+  {
+    skillName: "Docker",
+    fontAwesomeClassname: "fab fa-docker"
+  },
+  {
+    skillName: "Git",
+    fontAwesomeClassname: "fab fa-git-alt"
+  },
+  {
     skillName: "AI/ML",
     fontAwesomeClassname: "fas fa-robot"
   },
@@ -111,6 +123,7 @@ https://fontawesome.com/icons?d=gallery */
     skillName: "DAX",
     fontAwesomeClassname: "fas fa-code"
   }
+  
 ],
 
   display: true // Set false to hide this section, defaults to true
