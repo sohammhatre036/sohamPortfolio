@@ -280,6 +280,13 @@ const achievementSection = {
       footerLink: []
     },
     {
+      title: "Machine Learning Specialization",
+      subtitle: "Certification course by DeepLearning Ai and Stanford University.On Coursera",
+      image: require("./assets/images/mlc.jpg"), // Replace with an appropriate image
+      imageAlt: "ML Certification Logo",
+      footerLink: []
+    },
+    {
       title: "Data Visualization with Power BI",
       subtitle: "Certification course by Great Learning.",
       image: require("./assets/images/powerbi.jpg"), // Replace with an appropriate image
