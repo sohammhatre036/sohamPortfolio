@@ -281,7 +281,7 @@ const achievementSection = {
     },
     {
       title: "Machine Learning Specialization",
-      subtitle: "Certification course by DeepLearning Ai and Stanford University.On Coursera",
+      subtitle: "Course by DeepLearning AI and Stanford University From Coursera",
       image: require("./assets/images/mlc.jpg"), // Replace with an appropriate image
       imageAlt: "ML Certification Logo",
       footerLink: []
