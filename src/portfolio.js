@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Data Analyst with expertise in Big Data Analytics and experience in building insights through data visualization and statistical modeling. Skilled in Python, SQL, and cloud technologies."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1NOQjCuptrYxuXlilcgwc-fTG4f97O8_y/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
